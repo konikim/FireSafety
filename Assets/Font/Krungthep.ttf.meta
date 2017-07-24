@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7b422a402b80149eb8c92d4dcec1a376
+timeCreated: 1500065057
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Krungthep
+  fontNames:
+  - Krungthep
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

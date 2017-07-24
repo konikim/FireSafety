@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5a61f67db5b5c463abc70719b883b914
+timeCreated: 1500068979
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phosphate
+  fontNames:
+  - Phosphate
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
