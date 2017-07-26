@@ -1,4 +1,0 @@
-# FireSafety
-Purdue life
-
-hi
